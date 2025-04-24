@@ -52,7 +52,7 @@ Create a system that automates evaluation, leverages structured data, and provid
 
 ## Demo Video
 __________________
-> Demo Video Link: [Click here](https://youtu.be/ipniPvVFRyY?feature=shared)
+> Demo Video Link: [Click here](https://www.loom.com/share/c4a8a5969e5e426fb4c4c8c422960580?sid=2ee258d6-8075-43ee-93fd-f85f5091a6f4)
 
 ---
 
@@ -76,15 +76,13 @@ __________________
 
 | Technology | Description |
 |------------|-------------|
-| **Kotlin** | Android development |
-| **Jetpack Compose** | UI framework |
-| **Firebase** | Backend integration |
-| **Room** | Local database |
-| **HERE API** | Location-based services |
-| **Dagger Hilt** | Dependency injection |
-| **Ktor Client** | Networking |
-| **Material 3** | Modern UI design |
-| **Coil** | Image loading |
+| **React** | Frontend |
+| **Vite** | UI framework |
+| **Firebase** | Real-Time Storage |
+| **Node.JS** | Backend |
+| **Python** | Backend |
+| **MongoDB** | Database |
+
 
 ---
 
